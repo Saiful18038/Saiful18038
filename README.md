@@ -2,13 +2,14 @@
 ####  Web Developer
 Achieving a dynamic and challenging job where I could use technical and interpersonal skills, creativity and above all my learning experiences in order to develop my career and as well as to contribute in the welfare of the organization. 
 Computer Knowledge &  Hobbies      
-•	Clear Knowledge on Microsoft office package , (REACT JS/ HTML/ CSS/ Bootstrap/ Java-script / PHP & MYSQL/ Laravel Framework)
+•	Clear Knowledge on Microsoft office package , (HTML / CSS / Bootstrap /REACT Js /Next Js / PHP & MYSQL / Laravel Framework
+)
 •	Clear concept on internet, E-mail Browsing.
 •	Strong Written and oral communication ability in English.
 •	Travelling, Web Developer.
 
 
-Skills:  REACT / JS / HTML / CSS/PHP & MYSQL/ Laravel Framework
+Skills: HTML / CSS / Bootstrap /REACT Js /Next Js / PHP & MYSQL / Laravel Framework
 
 - 🔭 I’m currently working on shop management system project 
 - 🌱 I’m currently learning Javascript 
