@@ -1,4 +1,4 @@
-### Hi there 👋, 👋 Hi, I’mSaiful18038
+### 👋 Hi, I’mSaiful18038
 ####  Web Developer
 ![ Web Developer](https://www.linkedin.com/in/md-saiful-islam-8439141a5)
 
