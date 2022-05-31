@@ -1,7 +1,6 @@
+![ Web Developer](https://www.facebook.com/joi.islam.35)
 ### 👋 Hi, I’m Saiful18038
 ####  Web Developer
-![ Web Developer](https://www.facebook.com/joi.islam.35)
-
 Achieving a dynamic and challenging job where I could use technical and interpersonal skills, creativity and above all my learning experiences in order to develop my career and as well as to contribute in the welfare of the organization. 
 Computer Knowledge &  Hobbies      
 •	Clear Knowledge on Microsoft office package , (REACT JS/ HTML/ CSS/ Bootstrap/ Java-script / PHP & MYSQL)
