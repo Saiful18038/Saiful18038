@@ -8,7 +8,7 @@ Computer Knowledge &  Hobbies
 •	Travelling, Web Developer.
 
 
-Skills:  REACT / JS / HTML / CSS/PHP & MYSQL
+Skills:  REACT / JS / HTML / CSS/PHP & MYSQL/ Laravel Framework
 
 - 🔭 I’m currently working on shop management system project 
 - 🌱 I’m currently learning Javascript 
